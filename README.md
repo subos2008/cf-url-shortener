@@ -1,3 +1,7 @@
+# ED
+
+Originally this routed to Kafka. Modded to store events in a timeseries database as this can be easily dashboarded in Grafana.
+
 # 👷 URL Shortener
 
 This is a Node.js URL shortener app that uses [Cloudflare Workers](https://www.cloudflare.com/workers/).
